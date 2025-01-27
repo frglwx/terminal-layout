@@ -7,7 +7,7 @@ This repository contains a Vue.js 3 project built with Tailwind CSS for styling.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/frglwx/terminal-layout.git
 
 2. **Install Dependencies**
 
