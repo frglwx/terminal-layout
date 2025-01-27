@@ -1,7 +1,10 @@
-<script setup>
-import { RouterLink, RouterView } from 'vue-router'
-</script>
-
 <template>
-Hello World
+  <div id="app">
+  <router-view />
+  </div>
 </template>
+<script>
+  export default {
+    name: 'App',
+  };
+</script>
